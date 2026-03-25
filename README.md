@@ -1,0 +1,1 @@
+# creation-rights-ui-templates
